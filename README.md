@@ -1,11 +1,13 @@
 Web3 Security Researcher | Smart Contract Auditor
 Securing the decentralized future, one block at a time.
 
+
 🛡️ Services
 Smart Contract Auditing (Solidity, Vyper)
 Bug Bounty Hunting (High/Critical severity focus)
 Python Security Tools (Scripts, Bots, Automation)
 Web3 SEO (Technical audits for dApps)
+
 
 💰 Donate / Support
 If my tools or reports helped you secure your project, consider a donation.
@@ -18,6 +20,7 @@ Network	Address
 Bitcoin	bc1qyrdxrxmn2csc7cvl3mdafcszvd6j8z7x0mw98s
 
 Tron (TRX)	TLBvjf274kQLcBgDzUPzJkmGDNd9ifT7Qm
+
 
 📬 Contact Me
 For private reports, consultations, or collaboration:
