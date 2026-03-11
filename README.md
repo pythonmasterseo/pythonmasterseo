@@ -1,16 +1,23 @@
-## Hi there 👋
+Web3 Security Researcher | Smart Contract Auditor
+Securing the decentralized future, one block at a time.
 
-<!--
-**pythonmasterseo/pythonmasterseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Services
+Smart Contract Auditing (Solidity, Vyper)
+Bug Bounty Hunting (High/Critical severity focus)
+Python Security Tools (Scripts, Bots, Automation)
+Web3 SEO (Technical audits for dApps)
+💰 Donate / Support
+If my tools or reports helped you secure your project, consider a donation.
 
-Here are some ideas to get you started:
+Network	Address
+Ethereum (ETH)	0x44d58E12bEDeE6a27Cab8B0660Ff394e2B3797EB
+Bitcoin (BTC)	bc1qyrdxrxmn2csc7cvl3mdafcszvd6j8z7x0mw98s
+BNB Chain (BSC)	0x44d58E12bEDeE6a27Cab8B0660Ff394e2B3797EB
+Polygon (MATIC)	0x44d58E12bEDeE6a27Cab8B0660Ff394e2B3797EB
+Tron (TRX)	TLBvjf274kQLcBgDzUPzJkmGDNd9ifT7Qm
+📬 Contact Me
+For private reports, consultations, or collaboration:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Wallet Chat
+
+You can also contact me directly via XMTP or Blockscan Chat using my main ETH address.
