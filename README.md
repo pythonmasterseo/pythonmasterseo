@@ -11,10 +11,15 @@ Web3 SEO (Technical audits for dApps)
 If my tools or reports helped you secure your project, consider a donation.
 
 Network	Address
+
 Ethereum (ETH)	0x44d58E12bEDeE6a27Cab8B0660Ff394e2B3797EB
+
 Bitcoin (BTC)	bc1qyrdxrxmn2csc7cvl3mdafcszvd6j8z7x0mw98s
+
 BNB Chain (BSC)	0x44d58E12bEDeE6a27Cab8B0660Ff394e2B3797EB
+
 Polygon (MATIC)	0x44d58E12bEDeE6a27Cab8B0660Ff394e2B3797EB
+
 Tron (TRX)	TLBvjf274kQLcBgDzUPzJkmGDNd9ifT7Qm
 
 📬 Contact Me
