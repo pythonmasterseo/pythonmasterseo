@@ -28,5 +28,6 @@ For private reports, consultations, or collaboration:
 Wallet Chat
 https://app.walletchat.fun/dm/0x44d58e12bedee6a27cab8b0660ff394e2b3797eb
 
+
 You can also contact me directly via PGP Key
 https://github.com/pythonmasterseo/pythonmasterseo/blob/main/public_key.asc
